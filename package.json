@@ -1,0 +1,31 @@
+{
+  "name": "lesson2redo",
+  "version": "1.0.0",
+  "description": "redo of lesson2 tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KebinHyung/COMP308-W2017-Lesson2REDO.git"
+  },
+  "keywords": [
+    "lesson02",
+    "server",
+    "tutorial"
+  ],
+  "author": "Kevin Luu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KebinHyung/COMP308-W2017-Lesson2REDO/issues"
+  },
+  "homepage": "https://github.com/KebinHyung/COMP308-W2017-Lesson2REDO#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
